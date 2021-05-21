@@ -18,7 +18,7 @@
 - phpqrcode: generate qr code
 - PhpSpreadsheet: to print an excel
 
-# Screen home
+# Home screen
 ![](https://imagizer.imageshack.com/img924/3518/IZzOkQ.png)
 
 ### Upload Button
