@@ -1,0 +1,18 @@
+{
+  "name": "codeqr",
+  "version": "1.0.0",
+  "description": "this project was created for programming class 3\r in order to learn how to import and export an excel\r and also how to generate a qr code with PHP",
+  "scripts": {
+     "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheoFonck73/CodeQr.git"
+  },
+  "author": "MatheoFonck73",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheoFonck73/CodeQr/issues"
+  },
+  "homepage": "https://github.com/MatheoFonck73/CodeQr#readme"
+}
