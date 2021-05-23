@@ -1,4 +1,4 @@
-### Rock-paper-or-scissors
+### CodeQr
 
 - this project was created for programming class 3 in order to learn how to import and export an excel and also how to generate a qr code with PHP.
 - Repository (https://github.com/MatheoFonck73/CodeQr).
